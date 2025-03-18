@@ -1,24 +1,22 @@
 ```mermaid
 flowchart TD
-    A[???: Easy now! You wouldn't want ] --> B[Player: Who are you?]
-    A --> D[Player: *You might've gotten a bit too lost this time. Run away.*]
+    A[You wake up with blurried vision, lying on a bed. You try looking around and see rows of beds filled with people groaning. A doctor notices that you have woken up and asks how you are feeling.
+    B[???: Easy now! You wouldn't want to put more pressure on your wound.] --> B[Player: W-what happened?]
 
-    B --> E[Wenduag: I am the wandering huntress, Wenduag. I have spent my entire life in this here wilderness, far away from civilization.]
-    E --> F[Player: Why are you here?]
-    E --> G[Player *Requires Step 1 of In My Time of Need from Diane*: Diane sent me, she said you needed my help?]
-    E --> H[Player: Goodbye. *Leave Wenduag.*]
+    C --> D[Apothecary: The Legion invaded, and you were injured in the attack. Luckily, someone carried you out of that nasty battle. How do you feel?]
+    D --> E[Player: I feel... alright]
+    D --> F[Player: I am awake as you can see.]
+    D --> G[Player: *Remain Silent*]
 
-    F --> I[Wenduag: Well, without me, this wilderness will keep growing with no limits. My job is to hunt the creatures in it, and to acquaint those brave enough to my wilderness.]
-    G --> T[Wenduag: Oh yes... to tell you the truth, I have been lacking appearances lately, so I asked help from her to advertise my operations here... looks like it worked.]
-    H --> K[Wenduag: Farewell, little one.]
+    D --> G[Apothecary: You're lucky to feel alright. You had one of the worst injuries out of everyone. A head injury, to be precise. It's a miracle that you still live and breath.]
+    E --> H[Apothecary: Hah, yes I do see it. You're lucky that you can still humor with that injury of yours. A head injury, to be precise. It's a miracle that you still live and breath.]
+    F --> I[Apothecary: I know that it might be confusing, but you're lucky even with that injury. A head injury, to be precise. It's a miracle that you still live and breath.]
 
-    I & T --> L[Wenduag: Put simply, I have here in my hands bounties. The commonfolk give them to me, then I give them to whoever wants to try their luck hunting the animal in the bounty. Are you interested?]
-    L --> M[Player: Alright, let's do it. *Accept Wilderness Bounty*]
-    L --> N[Player: Actually, not right now. *Decline Wilderness Bounty*]
-    L --> O[Player: What's in it for me?]
-
-    M --> P[Wenduag: Eager, are we? Let's see here...]
-    N --> Q[Wenduag: Hm. No bother, its not like the wilderness will leave anytime soon.]
+    G & H & I --> J[Apothecary: Serious matters aside. Pray tell, what is your name?]
+    J --> K[Player: My...  name. It's...]
+    
+    K --> L[Apothecary: Well, *Player*, I'm going to have you to look over here.]
+    L --> M[Wenduag: Hm. No bother, its not like the wilderness will leave anytime soon.]
     O --> R[Wenduag: Well you can't have what's on your mark that's for sure, but the clients of these bounties do offer a lot of gold if that's your thing. I say learn to do it for the thrill... hehehe.]
 
     D --> S[Wenduag: Heh. The stench of prey. See you again, or not.]
