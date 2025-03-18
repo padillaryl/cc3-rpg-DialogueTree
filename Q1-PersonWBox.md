@@ -16,7 +16,7 @@ flowchart TD
   H & I & J --> K[Man with Box: Don't you remember? I'm the man who comes by your work who delivers equipment!]
   K --> L[You try to recall, but don't seem to remember anything. He sighs with worry, but he looks like he accepted your current situation.]
   L --> M[Before he tries to say something, a person taps into his shoulder and talks to him. He turns around to you while the person is waiting for him]
-  M --> N[Man with Box: Ach, I've got a tight schedule to follow laddie. I wish I can talk to you more, but I can help you. There's a courier service building just by the barracks. If you keep going in this direction, you'll get there in no time. Take care laddie.]
+  M --> N[Man with Box: Ach, I've got a tight schedule to follow laddie. I wish I can talk to you more, but I can help you. There's a courier service building just by the barracks. If you keep going in this direction, you'll get there in no time. Maybe it can help you to remember. Take care laddie.]
 
   N --> O[Thank you, you take care too. *Leave]
 
