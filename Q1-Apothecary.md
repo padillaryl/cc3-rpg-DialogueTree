@@ -28,5 +28,5 @@ flowchart TD
 
     U --> V [Player: Thank you. *Leave the hospital*]
     U --> W [*Leave the hospital*]
- 
+    
 ```
