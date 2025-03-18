@@ -24,9 +24,9 @@ flowchart TD
     Q --> R[You aren’t certain if what you see in the mirror is really you or not, but it’s who you are now.]
     R --> S[You look away from the mirror and you see the apothecary looking at you deeply. As if he's scrutinizing you.]
 
-    T --> U[Apothecary: Hm, just as I fear. You must have forgotten your memories. No matter, what's imporant is that you survive that god-forsaken attack and you get to chance to live again. I thank the generous soul that carried you back here. Had you've been left, you are surely dead. In the meantime, your wounds surprisingly healed quickly, so you're released from the hospital. While you're at it, you can try exploring. Maybe you'll remember something.]
+    S --> T[Apothecary: Hm, just as I fear. You must have forgotten your memories. No matter, what's imporant is that you survive that god-forsaken attack and you get to chance to live again. I thank the generous soul that carried you back here. Had you've been left, you are surely dead. In the meantime, your wounds surprisingly healed quickly, so you're released from the hospital. While you're at it, you can try exploring. Maybe you'll remember something.]
 
-    U --> V[Player: Thank you. *Leave the hospital*]
-    U --> W[*Leave the hospital*]
+    T --> U[Player: Thank you. *Leave the hospital*]
+    T --> V[*Leave the hospital*]
     
 ```
