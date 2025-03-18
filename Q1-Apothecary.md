@@ -1,7 +1,7 @@
 ```mermaid
 flowchart TD
-    A[You wake up with blurried vision, lying on a bed. You try looking around and see rows of beds filled with people groaning. A man notices that you have woken up.
-    B[???: Easy now! You wouldn't want to put more pressure on your wound.] --> C[Player: W-what happened?]
+    A[You wake up with blurried vision, lying on a bed. You try looking around and see rows of beds filled with people groaning. A man notices that you have woken up.]
+    A --> B[???: Easy now! You wouldn't want to put more pressure on your wound.] --> C[Player: W-what happened?]
 
     C --> D[Apothecary: The Legion invaded, and you were injured in the attack. Luckily, someone carried you out of that nasty battle. How do you feel?]
     D --> E[Player: I feel... alright]
