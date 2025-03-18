@@ -19,16 +19,16 @@ flowchart TD
 
     N --> O[You didn’t know if it was really your name or someones, but it’s who you are for the time being.]
     O --> P[The apothecary looks at you with a hint of confusion, but continues regardless]
-    Q --> R[Apothecary: Well, *Player*, I'm going to have you to look over here.]
-    R --> S[The apothecary pulls out a small mirror out of the bedside drawer. You see a face, and you do not recognize it]
-    S --> T[Character Creation]
+    P --> Q[Apothecary: Well, *Player*, I'm going to have you to look over here.]
+    Q --> R[The apothecary pulls out a small mirror out of the bedside drawer. You see a face, and you do not recognize it]
+    R --> S[Character Creation]
 
-    T --> U[You aren’t certain if what you see in the mirror is really you or not, but it’s who you are now.]
-    U --> V[You look away from the mirror and you see the apothecary looking at you deeply. As if he's scrutinizing you.]
+    S --> T[You aren’t certain if what you see in the mirror is really you or not, but it’s who you are now.]
+    T --> U[You look away from the mirror and you see the apothecary looking at you deeply. As if he's scrutinizing you.]
 
-    W --> X[Apothecary: Hm, just as I fear. You must have forgotten your memories. No matter, what's imporant is that you survive that god-forsaken attack and you get to chance to live again. I thank the generous soul that carried you back here. Had you've been left, you are surely dead. In the meantime, your wounds surprisingly healed quickly, so you're released from the hospital. While you're at it, you can try exploring. Maybe you'll remember something.]
+    U --> V[Apothecary: Hm, just as I fear. You must have forgotten your memories. No matter, what's imporant is that you survive that god-forsaken attack and you get to chance to live again. I thank the generous soul that carried you back here. Had you've been left, you are surely dead. In the meantime, your wounds surprisingly healed quickly, so you're released from the hospital. While you're at it, you can try exploring. Maybe you'll remember something.]
 
-    X --> Y[Player: Thank you. *Leave the hospital*]
-    X --> Z[*Leave the hospital*]
+    V --> W[Player: Thank you. *Leave the hospital*]
+    V --> X[*Leave the hospital*]
     
 ```
