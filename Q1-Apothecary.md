@@ -26,7 +26,7 @@ flowchart TD
 
     T --> U[Apothecary: Hm, just as I fear. You must have forgotten your memories. No matter, what's imporant is that you survive that god-forsaken attack and you get to chance to live again. I thank the generous soul that carried you back here. Had you've been left, you are surely dead. In the meantime, your wounds surprisingly healed quickly, so you're released from the hospital. While you're at it, you can try exploring. Maybe you'll remember something.]
 
-    U --> V [Player: Thank you. *Leave the hospital*]
-    U --> W [*Leave the hospital*]
+    U --> V[Player: Thank you. *Leave the hospital*]
+    U --> W[*Leave the hospital*]
     
 ```
