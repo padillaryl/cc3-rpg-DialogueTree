@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-    A[???: I do not recognize you... most that come to my wilderness are cocky nobles or lost children, what brings thou here?] --> B[Player: Who are you?]
+    A[???: Easy now! You wouldn't want ] --> B[Player: Who are you?]
     A --> D[Player: *You might've gotten a bit too lost this time. Run away.*]
 
     B --> E[Wenduag: I am the wandering huntress, Wenduag. I have spent my entire life in this here wilderness, far away from civilization.]
