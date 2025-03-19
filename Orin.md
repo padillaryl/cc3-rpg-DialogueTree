@@ -12,4 +12,16 @@ flowchart TD
   ORININTRO4A[Player: It shall be done.] --> ORININTRO5
   ORININTRO4B[Player: Oh no, I'm not doing this! *Run away.*]
   ORININTRO5[Orin: Yes... I can smell his cryptbreath from here. Be quick... I'll be watching. And if your courage doth falter, remember that my father is generous to his chosen...]
+
+  THOMASIAN0[Orin: Do you have them? Bring them to me, quick!] --> THOMASIAN0A & THOMASIAN0B
+  THOMASIAN0A[Player: Here you go.] --> THOMASIAN1
+  THOMASIAN0B[Player: Why do you want them so bad?] --> THOMASIAN0B1[Orin: Questions, questions! I said I was going to offer them to my father, remember? Now are you going to hand them over, or what?] --> THOMASIAN1A & THOMASIAN1B
+  THOMASIAN1A[Player: Alright, here you go.] --> THOMASIAN1
+  THOMASIAN1B[Player: No.] --> THOMASIAN1B1[Orin: Wow... a bit feisty are we? Very well. *Combat commences*]
+  THOMASIAN1[Orin: Excellent... one moment. This should be quick. Perfect... thank you for your help. With that, welcome to my church of our sweet and benevolent lord Bhaal... now I'm afraid the questions and clarifications and dating will have to wait, my sweetmeat. I need you to collect another offering, from that insolent army or legion or whatever of Ahmed. They have the gall to attempt and invade our dear city. Forget that I'm a woman, think of all the slaves that they'll get that are just begging to be put to a better purpose. And don't fret, Ahmed may seem benevolent and cool or whatever he thinks he is, but he is just as cruel as me... think about it! Anyway, I want you to go to his little camp, get one of his soldiers, and bring them back to me. Same song and dance, understand?] --> THOMASIAN2A & THOMASIAN2B & THOMASIAN2C
+  THOMASIAN2A[Player: It shall be done.] --> THOMASIAN2A1[Orin: Do not fail me, remember that I am Bhaal's daughter... angering him means a plethora more problems for you...]
+  THOMASIAN2B[Player: Alright. There better be a soft bedroll in my future. *Romance*]  --> THOMASIAN2B1[Orin: Hahaha. There will be a lot of soft bedrolls in your future, just do this for me, sweetmeat. Okay?]
+  THOMASIAN2C[Player: Oh no, I'm going! *Run away.*]
+
+  
 ```
