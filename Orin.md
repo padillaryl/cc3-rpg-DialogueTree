@@ -8,5 +8,8 @@ flowchart TD
   ORININTRO3A[Player: Yes.] --> ORININTRO4
   ORININTRO3B[Player: Alright, if that's what you want. *Romance*] --> ORININTRO4
   ORININTRO3C[Player: Uh, no! *Run away*]
-  ORININTRO4[Orin: ]
+  ORININTRO4[Orin: Very good... now I just told you why we're holed up in the catacombs, it's because of these pesky Thomasians... they stroll up to our dear city and force US out? Can you believe it??? It's not like they're any better... trust me, they are far worse than us. Now, what I want you to do is go out there, lure some stray obsolete member of theirs out of their little hidey churches or pilgrimage sites what-have-you and bring them here, as an offering to my dear father. Not a challenge, right?] --> ORININTRO4A & ORININTRO4B
+  ORININTRO4A[Player: It shall be done.] --> ORININTRO5
+  ORININTRO4B[Player: Oh no, I'm not doing this! *Run away.*]
+  ORININTRO5[Orin: Yes... I can smell his cryptbreath from here. Be quick... I'll be watching. And if your courage doth falter, remember that my father is generous to his chosen...]
 ```
