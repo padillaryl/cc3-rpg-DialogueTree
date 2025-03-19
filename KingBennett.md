@@ -14,7 +14,7 @@ flowchart TD
     AHM1 --> AHM2[Ahmed: Yes, my friend. But first, what do you require? My warrior here shall aid you to the best of their ability.]
     AHM2 --> AHM3[King Bennett: Ah, welcome... apologies for the rude introductions, great Ahmed, but as you can see, it's hard to stay welcoming in this climate. We were expecting soldiers or nobles that'd come and bully us again.]
     AHM3 --> AHM4[Ahmed: It is not an issue, warriors are not concerned about niceties or hospitality. They take, they conquer, they defend, haha! Now, what is it you require?]
-    AHM4 --> KING1[King Bennett: Alright, follow me, we'll talk about this in my house.]
+    AHM4 --> KING1[King Bennett: Hm, I actually do need something done... follow me, we'll talk about this in my house.]
 
     DIA1 --> DIA2[Diane: Yes, Bennett, remember me? It's been a long time, but I hope you haven't forgotten about the time we had. When we were still kids.]
     DIA2 --> DIA3[King Bennett: Of course I do, and you have a lot of nerve showing your face here after all this time. You don't understand, do you?]
