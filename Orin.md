@@ -34,5 +34,13 @@ flowchart TD
   AHMED3A[Player: It shall be done.] --> AHMED3A1[Orin: Perfect! He should be at the Heretic Tower, last time I was outside this place I mean. Fear not, my dear, when you come back you shall be ready to bask in all of my father's majesty. Do not fail me, please.]
   AHMED3B[Player: There's something off about this, I just know it. Why do you want me to bring him to you?] --> AHMED3B1[Orin: He's a priest, which means a lot of sheep are under him, understand? Imagine the thrill and chaos you'd cause by getting rid of something of his stature... and like I said, don't worry about him, he's probably more cruel than you are! Even he would make a perfect servant of Bhaal himself... trust me, no one will miss him.]
   AHMED3C[Player: *Alright, you're about to go way too far. Run away while you still can.*]
+
+  FINALE[Orin: Welcome my brand new Bhaalist and welcome to our dear offering... we can begin your inauguration now, but I must say that I am far too excited about your new offering... can I have him first, please?] --> FINALEA & FINALEB & FINALEC
+  FINALEA[Player: Here you go.] --> FINALEA1[Orin: Oh yes... excuse me. There... now that that's taken care of... allow us to proceed with your ordainment. My dear, are you ready?] --> FINALE1A & FINALE1B
+  FINALEB[Player: Enjoy. I tried my best to leave him unharmed, I thought you'd like it that way. *Romance*] --> FINALEB1[Orin: You are far sweeter and crueler than I deserve, my dear. I'll enjoy this...] --> FINALEA1
+  FINALEC[Player: I don't think so.] --> FINALEC1[Orin: Why you would dare... then I'll just take him instead. *Combat commences*]
+  FINALE1A[Player: Yes. *Accept Bhaal*] --> FINALE2
+  FINALE1B[Player: *You sense that it may be your last chance to stop going down this path. Run away.*]
+  FINALE2[Orin: Then by the power gifted to me by our dear father, I pronounce you too as a child and devotee of Bhaal, my dear father, our Lord of Murder.]
   
 ```
