@@ -41,6 +41,18 @@ flowchart TD
   FINALEC[Player: I don't think so.] --> FINALEC1[Orin: Why you would dare... then I'll just take him instead. *Combat commences*]
   FINALE1A[Player: Yes. *Accept Bhaal*] --> FINALE2
   FINALE1B[Player: *You sense that it may be your last chance to stop going down this path. Run away.*]
-  FINALE2[Orin: Then by the power gifted to me by our dear father, I pronounce you too as a child and devotee of Bhaal, my dear father, our Lord of Murder.]
+  FINALE2[Orin: Then by the power gifted to me by our dear father, I pronounce you too as a child and devotee of Bhaal, my dear father, our Lord of Murder.] --> FINALE3
+  FINALE3[Orin: That didn't hurt, did it? Well, I am certainly thrilled that you have chosen to accept Bhaal, my sweetmeat. Though given your demeanor and type you were expecting something more... material? In that case, take this. It was something I used a lot when I was a child, sometimes I still use it today... but our lord demands professionalism at all times. *Hands over Crimson Mischief*]
+
+  IDLE1[Orin: Welcome back, my sweetmeat. Do you need anything?] --> IDLE1A & IDLE1B & IDLE1C
+  IDLE1A[Player: So... after all I did for you and after becoming a Bhaalist, I just realized that I don't know much about you.] --> IDLE1A1[Orin: Well... I am the appointed child and chosen of our lord Bhaal himself, as I have foretold a horrific prophecy when I was conceived in this very room, hahaha. Aren't you proud? I was one of the youngest and best artists under Bhaal, and few would DARE return after they saw my work in the streets. ] --> IDLE1A2[Player: Wait... what prophecy?] -->     IDLE1A3[Orin: The finer details are not important, but what is is that our dear father will sire more and more spawn in his pursuit to become mortal again... isn't that amazing? Oh yes, you should also know who my father once was: a short story really, but it is said that he ascended from mortality as a being of flesh into becoming an immortal with a strange bargain with... I don't remember his name, but the original god of death.]
+  IDLE1B[Player: You gave me your knife but I was hoping for something more, meaningful. *Requires choosing romance dialogue for her questline*] --> ROM1
+  IDLE1C[Player: Goodbye. *Leave Orin*] --> IDLE1C1[Orin: Don't be a stranger, sweetmeat...]
+
+  ROM1[Orin: Let me guess... myself? Well I cannot offer you myself, I am still devoted to my father... I'm afraid I won't have room for you.] --> ROM2
+  ROM2[Player: But can't we share?] --> ROM3[Orin: I suppose that's possible... you and I have a lot in common: cruelty, a penchance for genocide, power, strength, and now a shared love for my father... I wonder though... if you were not appreciative of my blade, then why have you done all that you did for me?] --> ROM3A & ROM3B & ROM3C
+  ROM3A[Player: I did it to become a Bhaalist.] --> ROM3A1[Orin: Oh... so you didn't actually]
+  ROM3B[]
+  ROM3C[]
   
 ```
