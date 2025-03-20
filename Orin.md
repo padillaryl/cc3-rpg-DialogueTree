@@ -23,5 +23,16 @@ flowchart TD
   THOMASIAN2B[Player: Alright. There better be a soft bedroll in my future. *Romance*]  --> THOMASIAN2B1[Orin: Hahaha. There will be a lot of soft bedrolls in your future, just do this for me, sweetmeat. Okay?]
   THOMASIAN2C[Player: Oh no, I'm going! *Run away.*]
 
+  AHMED0[Orin: Oh yes... this one is a great offering to my father, excellent taste, my sweetmeat. Now, be a good helper and give him to me.] --> AHMED0A & AHMED0B & AHMED0C
+  AHMED0C[Player: Alright, that's enough.] --> AHMEDC1[Orin: Shame... I was starting to get used to having you around... *Combat Commences*]
+  AHMED0A[Player: Alright, here you go.] --> AHMED1
+  AHMED0B[Player: Of course, I saved the best one just for you. *Romance*] --> AHMED0B1[Orin: Hahaha... I'll make sure to savour this one then...] --> AHMED1[Orin: I'll be right back... there, that wasn't such long of a wait now was it? Bhaal smiles upon you, are you ready to finally get accepted by my father?]
+  AHMED1 --> AHMED2A & AHMED2B & AHMED2C[Player: Oh no, goodbye! *Run away.*]
+  AHMED2A[Player: Alright, what must I do?] --> AHMED3
+  AHMED2B[Player: If it involves getting accepted by you, of course. *Romance*] --> AHMED2B0[Orin: Silly little thing! But to answer that question, of course I'll be thrilled to have brought one unto Bhaal all by myself, especially one as spectacularly cruel as you...] --> AHMED3
+  AHMED3[Orin: Bhaal requires that his chosen do something divinely unspeakable first before being welcomed into his fold, usually that means getting rid of one's familial ties or what have you, but I can already sense from your demeanor that you are very very far from your family, aren't you sweetmeat? Since that's out of the picture, the next best thing would be to bring to me yet again another sacrifice... but one more... significant, let's say. There's this cruel Thomasian priest, known misogynist, abuser, thief, just trust me that he's cruel overall, okay? Bring him to me, I shall bring him before my father, then you shall be welcomed into worship of Bhaal. Can you do this for me, sweetmeat?] --> AHMED3A & AHMED3B & AHMED3C
+  AHMED3A[Player: It shall be done.] --> AHMED3A1[Orin: Perfect! He should be at the Heretic Tower, last time I was outside this place I mean. Fear not, my dear, when you come back you shall be ready to bask in all of my father's majesty. Do not fail me, please.]
+  AHMED3B[Player: There's something off about this, I just know it. Why do you want me to bring him to you?] --> AHMED3B1[Orin: He's a priest, which means a lot of sheep are under him, understand? Imagine the thrill and chaos you'd cause by getting rid of something of his stature... and like I said, don't worry about him, he's probably more cruel than you are! Even he would make a perfect servant of Bhaal himself... trust me, no one will miss him.]
+  AHMED3C[Player: *Alright, you're about to go way too far. Run away while you still can.*]
   
 ```
