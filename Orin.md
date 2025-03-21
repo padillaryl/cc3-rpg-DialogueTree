@@ -51,8 +51,12 @@ flowchart TD
 
   ROM1[Orin: Let me guess... myself? Well I cannot offer you myself, I am still devoted to my father... I'm afraid I won't have room for you.] --> ROM2
   ROM2[Player: But can't we share?] --> ROM3[Orin: I suppose that's possible... you and I have a lot in common: cruelty, a penchance for genocide, power, strength, and now a shared love for my father... I wonder though... if you were not appreciative of my blade, then why have you done all that you did for me?] --> ROM3A & ROM3B & ROM3C
-  ROM3A[Player: I did it to become a Bhaalist.] --> ROM3A1[Orin: Oh... so you didn't actually]
-  ROM3B[]
-  ROM3C[]
+  ROM3A[Player: I did it to become a Bhaalist.] --> ROM3A1[Orin: Oh... so you actually just did it for my father... but, nevermind. I'm sure my father will appreciate your zeal.]
+  ROM3B[Player: I did it to please both of you, of course. Like father like daughter? *Romance*] --> ROM3B1[Orin: Are you serious? You don't know how much that thrills me, my dear. To think that we can be brought together through a shared love of each other and for my father... what a joyous wonderful day... Might I ask you then my dear, would you be willing to embark on one last mission for me? My lifelong dream was to prove my dedication to Bhaal by coating these lands in the red, but there's only so much a single me can do after all... can you help me?] --> ROM4A & ROM4B & ROM4C
+  ROM3C[Player: I did it to impress you.] --> ROM3C1[Orin: Hahaha. But such a short-sighted goal you have... my father and of course myself require so much more.]
+  ROM4A[Player: Alright, I'll find a way.] --> ROM4A1[Orin: Thank you my sweetmeat... this has been my dream since I was a babe.]
+  ROM4B[Player *Requires full knowledge of the Vermin Key*: I already have something to make it come true. Here in my hands is the vermin key. It has the power to release rats into different parts of the state. They are fabled to be quite effective, I assure you.] --> ROM4B1[Orin: Oh yes, yes, yes! Perfect my dear, think of how much will flow in the name of Bhaal, in the name of us! I applaud your ingenuity, my dear. Promise me that when the time is right, you return to me and we unleash the pestilence together, please?] --> ROM5A[Player: *Swear to use the vermin key with Orin*] & ROM5B[Player: *Alright that's enough. Run away.*]
+  ROM4C[Player: *Oh dear. Suppose NOW is the point of no return. Run away.*]
+  ROM5A --> ROM5A1[Orin: Thank you, my love. Soon the entirety of Yrmania will be brought before Bhaal... I cannot thank you enough.]
   
 ```
