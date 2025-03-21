@@ -20,6 +20,7 @@ flowchart TD
   M --> N[???: My part here is not yet in play. But yours is just starting.]
   N --> O[Guards approach you and ask you to step aside. They unlocked the cell and went inside, carrying the Legionnaire out of his own cell while being constrained with various contraptions. He stops and looks at you.]
   O --> P[???: You have proven yourself worthy of the Prophet. But the question remains. Are you simply His audience, or will you be part of the grand play?]
-  P --> Q[The guard punches the Legionnaire and forced him to keep walking. You leave the gallows in hopes that you will not be punched.]
+  P --> Q[The guard punches the Legionnaire and forced him to keep walking. You leave the gallows in hopes that you will not be punched. It's much more crowded than before, though. Something may be happening.]
+  Q --> R[]
 
 ```
