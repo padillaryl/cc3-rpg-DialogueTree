@@ -28,9 +28,19 @@ flowchart TD
 
   Q --> R[The 2nd tower guard shoots her arrow at you and fortunately, it missed. Maybe you shouldn't do that again if you wanna keep that head of yours.]
   R --> S[Tower Guard 2: T-that was only a warning shot! I didn't miss or anything!]
-  S --> T[Tower Guard 3: You threaten someone only for you to miss? Very impressive]
+  S --> T[Tower Guard 3: You threaten someone only for you to miss? Very impressive.]
 
   P --> U[Tower Guard 2: Throw it over! We don't have eyes of an hawk, you eejit.]
   U --> V[Player: *Throw Emblem Over*]
   U --> W[Player: No, I don't think so. *Don't Throw Emblem Over*]
+
+  W --> X[Tower Guard 2: We're not thieves, y'know? Just throw it over!]
+  X --> V
+
+  U --> Y[You threw the emblem over to the tower guards' side. The archer didn't catch it in time and instead, the emblem hit her in the head. You can see the other tower guard snickering.]
+  Y --> Z[Tower Guard 2: Yeah, yeah. I almost had it y'know?]
+
+  Z --> A1[Silence followed as the tower guards examined the emblem.]
+
+  
 ```
