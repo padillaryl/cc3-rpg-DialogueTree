@@ -36,7 +36,7 @@ flowchart TD
   W --> X[The guards backed away and immediately ran away. They we're no match for your skills. You confront the guildmaster inside the tent afterwards.]
   X --> Y[Caravan Guildmaster: A-alright, alright. I-I'll tell you everything, please don't kill me!]
 
-  Z --> A1[*If you have the necessary money*: You give up a hefty amount of gold to the guildmaster. You hope it was enough for him to give up the package. His eyes brighten immediately, showing a big, shin-eating grin alongside it.]
+  M --> A1[*If you have the necessary money*: You give up a hefty amount of gold to the guildmaster. You hope it was enough for him to give up the package. His eyes brighten immediately, showing a big, shin-eating grin alongside it.]
   A1 --> B1[Caravan Guildmaster: Ahh, yes. I seem to remember something. A package from the queen, right?]
 
   S & Y & B1 --> C1[Caravan Guildmaster: We took care of the package, indeed. Even the process of procuring it all thanks to this whole Legion thing. What’s even better is you drowning in your own fairytale land. Though, if I only have the package on my hand right now, then you’ll be happy no? But no, just a tad too little too late. Tell me, how well can you run after someone?]
