@@ -37,7 +37,7 @@ flowchart TD
   W --> X[Tower Guard 2: We're not thieves, y'know? Just throw it over!]
   X --> V
 
-  U --> Y[You threw the emblem over to the tower guards' side. The archer didn't catch it in time and instead, the emblem hit her in the head. You can see the other tower guard snickering.]
+  V --> Y[You threw the emblem over to the tower guards' side. The archer didn't catch it in time and instead, the emblem hit her in the head. You can see the other tower guard snickering.]
   Y --> Z[Tower Guard 2: Yeah, yeah. I almost had it y'know?]
 
   Z --> A1[Silence followed as the tower guards examined the emblem.]
