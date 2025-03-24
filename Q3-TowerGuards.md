@@ -49,4 +49,12 @@ flowchart TD
   E1 --> F1[The other tower guard snatches the emblem and gives it back to you.]
   F1 --> G1[Tower Guard 2: Aw, no fair.]
   G1 --> H1[You thank them again and followed the directions to the Company.]
+
+  A1 --> I1[*If the Company is not present*: Tower Guard 2: Sorry, but we didn't see anyone. A group of people passed by though. To Summonwater and The Pilgirmage Site. Maybe they're the ones you're looking for. Or not. Not my fault of you get lost.]
+  I1 --> J1[You asked for the emblem. The archer, alongside one of the tower guard, approaches you and gives it to you halfway before being snatched back.]
+  J1 --> K1[Tower Guard 2: You know our "services" aren't free, right?]
+  K1 --> L1[The other tower guard snatches the emblem and gives it back to you.]
+  L1 --> M1[Tower Guard 2: Alright, fine. You're no fun y'know that?]
+  M1 --> N1[You thank them and followed the directions to where the Company may have gone to.]
+
 ```
