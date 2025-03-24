@@ -42,5 +42,11 @@ flowchart TD
 
   Z --> A1[Silence followed as the tower guards examined the emblem.]
 
-  
+  A1 --> B1[*If the company is present in this place*: Tower Guard 2: Yeah, we've seen some. They set up camp near here.]
+  B1 --> C1[She, and one of the tower guard, approaches you and gives you directions to the Company's camp site.]
+  C1 --> D1[You thank them and asked for the emblem. The archer gives it to you halfway before being snatched back.]
+  D1 --> E1[Tower Guard 2: Ah ah. Pay up first.]
+  E1 --> F1[The other tower guard snatches the emblem and gives it back to you.]
+  F1 --> G1[Tower Guard 2: Aw, no fair.]
+  G1 --> H1[You thank them again and followed the directions to the Company.]
 ```
