@@ -13,4 +13,9 @@ flowchart TD
   G --> H[Tower Guard 2: Yeah, that's what I thought! See that? Hah! Only words!]
   H --> I[Tower Guard 3: Yeah, words. That, and your arrow pointed at his head.]
 
+  I --> J[*If player returns* Tower Guard 1: Halt! Stop right there!]
+  J --> K[Tower Guard 2: Wait a minute, You again? You really want that arrow in your head, huh?]
+  K --> L[Tower Guard 3: Stop with the arrow!]
+
+  J & J & L --> E & F & G
 ```
