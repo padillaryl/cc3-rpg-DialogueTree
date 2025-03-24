@@ -19,4 +19,18 @@ flowchart TD
 
   J & K & L --> M[*Reuse dialogue Choices]
   M --> E & F & G
+
+  E --> N[Tower Guard 1: What is your question?]
+  N --> O[Tower Guard 3: Just don't take a step forward.]
+
+  O --> P[Player: Have you seen anyone passing by who bears this emblem? *Show Emblem*]
+  O --> Q[Player: *Take a step forward*]
+
+  Q --> R[The 2nd tower guard shoots her arrow at you and fortunately, it missed. Maybe you shouldn't do that again if you wanna keep that head of yours.]
+  R --> S[Tower Guard 2: T-that was only a warning shot! I didn't miss or anything!]
+  S --> T[Tower Guard 3: You threaten someone only for you to miss? Very impressive]
+
+  P --> U[Tower Guard 2: Throw it over! We don't have eyes of an hawk, you eejit.]
+  U --> V[Player: *Throw Emblem Over*]
+  U --> W[Player: No, I don't think so. *Don't Throw Emblem Over*]
 ```
