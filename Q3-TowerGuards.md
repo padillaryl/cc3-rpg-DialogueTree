@@ -20,7 +20,7 @@ flowchart TD
   L --> M[*Reuse dialogue Choices]
   M --> E & F & G
 
-  E --> N[Tower Guard 1: What is your question?]
+  E & F --> N[Tower Guard 1: What is your question?]
   N --> O[Tower Guard 3: Just don't take a step forward.]
 
   O --> P[Player: Have you seen anyone passing by who bears this emblem? *Show Emblem*]
