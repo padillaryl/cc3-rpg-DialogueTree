@@ -17,7 +17,7 @@ flowchart TD
   J --> K[Tower Guard 2: Wait a minute, You again? You really want that arrow in your head, huh?]
   K --> L[Tower Guard 3: Stop with the arrow!]
 
-  J & K & L --> M[*Reuse dialogue Choices]
+  L --> M[*Reuse dialogue Choices]
   M --> E & F & G
 
   E --> N[Tower Guard 1: What is your question?]
