@@ -26,7 +26,7 @@ flowchart TD
 
   Q --> R[Courier: Hey, before you go.]
   R --> S[You stopped and listened to the man.]
-  S --> T[Courier: I can't change your mind earlier, but He can. Fort Faroth, a man who goes by Nik. Find him, and tell him 'a knight in the gallows']
+  S --> T[Courier: I can't change your mind earlier, but He can. Fort Faroth, a man who goes by Nik. Find him, and tell him a knight in the gallows]
 
   T --> U[You continue your walk away from the alley after listening to the man. Though, you feel something is amiss.]
   U --> V[Curiosity consumes you. This key, sent by the queen herself, holds something more than it looks like. Why would a key be this important? Better yet, why would anyone want it? For only a little gold? The man who was keeping it looked like they were protecting it with their life but they stopped and gave it to you in hopes of you understanding. There is certainly something going on, and you must uncover it. You set your next destination to Fort Faroth]
