@@ -3,8 +3,11 @@ flowchart TD
   A[You approach the old man and immediately get his attenton. He looks at you and rolls the scroll he was reading.]
   A --> B[A visitor? Well then, what is your business? I apologize, but I unfortunately have a strict schedule as I still have a lot of things to do.]
   B --> C[Player: A knight in the gallows.]
-  B --> D[Player: ]
+  B --> D[Player: Have you ever heard of a knight? He, unfortunately, is in the gallows.]
   B --> E[Player: Oh, understood. *Leave*]
+
+  D --> U[He looked at you confused, as if he was trying to understand something that you have said. He raised his eyebrows and muttered something, somewhere along the lines of clever.]
+  U --> C
 
   C --> F[He looks at you, examining every single detail you have. He looks around and stands up.]
   F --> G[Old Sage Nik: Well, I've been expecting you, young lad! And with the book that I've been finding for ages? Bah, I'm getting ahead of myself, of course! I'll show you to the library.]
