@@ -7,7 +7,7 @@ flowchart TD
   B --> E[Player: Oh, understood. *Leave*]
 
   D --> U[He looked at you confused, as if he was trying to understand something that you have said. He raised his eyebrows and muttered something, somewhere along the lines of clever.]
-  U --> C
+  U --> F
 
   C --> F[He looks at you, examining every single detail you have. He looks around and stands up.]
   F --> G[Old Sage Nik: Well, I've been expecting you, young lad! And with the book that I've been finding for ages? Bah, I'm getting ahead of myself, of course! I'll show you to the library.]
