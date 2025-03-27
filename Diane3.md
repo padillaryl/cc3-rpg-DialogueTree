@@ -21,7 +21,7 @@ flowchart TD
 
   STEP2C1 --> STEP2END1[Diane: At the stables near the Lower District gate. *Hands you a purse* 650GP for your services thus far. And remember - we need witnesses, not martyrs. Observe only.]
   STEP2C2 --> STEP2END2[Diane: Possible, but shortsighted... remember that Thomasia and especially that Sanctified Stalker of theirs will catch wind of it very quickly, and they would not appreciate a blight forming in their new backyard.]
-  STEP2C3 --> STEP2END3[Diane: *sharp laugh* The time for rats comes later. First we must show the people why they should stand with us before the gnawing begins... and mind you we can't just unleash them whenever we want, we still need to keep the common populace safe. They are contained underground for a reason, so we must do all we can to minimize the areas that we are to unleash the rats in.] --> STEP2END1
+  STEP2C3 --> STEP2END3[Diane: *sharp laugh* The time for rats comes later. First we must show the people why they should stand with us before the gnawing begins... and mind you we can't just unleash them whenever we want, we still need to keep the common populace safe. They are contained underground for a reason, so we must do all we can to minimize the areas that we are to unleash the rats in.]
   STEP2C4 --> STEP2END4[Diane: *nods approvingly* A person of action. Elric will be waiting by the pilgrim tents. Don't keep him long.]
 
   STEP2END1 --> STEP2FINAL[Diane: Be quick... I have the next part of our plan laid out.]
