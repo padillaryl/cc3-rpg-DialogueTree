@@ -13,4 +13,10 @@ flowchart TD
   LEADINA --> PROCEED[Diane: Perfect. Meet me in the capital square, we shall host it there.]
   AR2 --> LEADIN
   AR3 --> LEADIN
+
+  SPEECH[Diane: You're here, shall we begin?] --> SPEECHA[Player: Let's begin.] & SPEECHB[Player: Actually, hold on... *Leave Diane*]
+  SPEECHA[Diane: Then we proceed. Citizens of the capital, may I have your attention? As you well know...]
+  SPEECHB[Diane: Go then, let me know when you're ready.]
+
+  POSTRAID[Diane: Alright, that was not how I wanted that to go, but after that many people saw what happened, there is no doubt that their reputation will take a nose dive. So soon, it might be time for us to act, but for now we rest. Thank you for your help so far, I shall inform you if I am ready to proceed with our plans.]
 ```
