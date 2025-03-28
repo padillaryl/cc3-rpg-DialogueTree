@@ -9,5 +9,5 @@ flowchart TD
   INTROC --> GOODBYE[Diane: Don't be long, we need to act... and soon.]
   INTRO2C --> GOODBYE
   
-  
+  AFTERMATH[Diane: Don't need to ask how you fared, looks like that little mission was a success... we will need every corner of Yrmania's support if we were to become independent from Thomasia and Ahmed. Let me know if you're ready to proceed with your next task.]
 ```
