@@ -121,6 +121,19 @@ flowchart TD
 - **Step 6 (I Am What I Am: which requires completion of Symbiosis)**
     - Diane gets word that Ahmed himself has started negotiating an alliance and peace-deal with the de-facto leader of the slums, King Bennett. Diane says that she knows King Bennett from when she was still a child living in the slums and urges that the player accompany her and aid her in promising King Bennett to stay neutral or even aid Diane in the upcoming war.
     - 800GP (or the currency decided) and Bennett's Rapier, a unique rapier is rewarded upon completion.
+```mermaid
+flowchart TD
+  INTRO[Diane: You're back. Come quickly, I have something that we both need to attend to.] --> INTROA[Player: What is it?] & INTROB[Player: Hang on, I'll be right back *Leave Diane*]
+  INTROA --> INTRO2[Diane: After your success at Fort Faroth my guardians have alerted me of something urgent. Ahmed has begun arranging and negotiating an alliance with the slums' de facto leader King Bennett. We must go down to the slums and convince him to not go through with his plans with the alliance.] --> INTRO2A[Player: Alright, let's go.] & INTRO2B[Player: *Question* And this is a problem how, exactly?] & INTRO2C[Player: *Question* Who is King Bennett?] & INTRO2D[Player: I'll be right back *Leave Diane*]
+  INTRO2B--> INTRO2BANS[Diane: ...it just is, think of how many men they will gain or how close they will be to the capital if the alliance goes through, not to mention that if Ahmed secures that force, we will not.]
+  INTRO2C --> INTRO2CANS[Diane: He's... someone I know from my childhood in the slums, although word on the street is that he's now it's de-facto leader. Not to long ago, he started campaigning against the nobility, probably because I know people that go there to bully or threaten the slum's inhabitants, poor things.]
+  INTRO2A --> INTRO3[Diane: Good. Let's hurry. The more time we spend here the more time Ahmed has to secure the alliance.]
+
+  INTROB & INTRO2D --> GOODBYE[Diane: Chk, quickly then.]
+
+  POINTER[The rest of the dialogue tree for this quest is in King Bennett's section.]
+  
+```
 - **Step 7 (Pre-finale)**
     - Just before Ahmed leads his massive assault on the capital and the Thomasians also rally their foreign Borisyan military to attempt and repel them, Diane asks the player once again to accompany and protect her for a speech in the capital, but this time the capital streets are full of militiamen, state soldiers, Upper City knights, and her personal guardians. She gives a rallying speech, making notes about "I know we are surrounded, but think of what we can achieve once this is all over..." and "this is our home... will you really allow the likes of Thomasia or Ahmed's barbarians to take it from you?". The crowd is roused and inspired, and Diane informs the player that whenever the fight may happen, Yrmania is ready.
     - 1000GP (or the currency decided) and Sceleritas Fel's Hat, a unique item that greatly increases initiative (or whatever turn order system, basically it helps you go first) is rewarded after the speech. Diane hands it to the player, gently stating "this was my first and favourite guardian's hat once. I remember the time when I was a sweet girl, when I entered the Upper City for the first time and he was there to greet me. Now I'm here, about to face my greatest challenge ever, I just wish he could be here to see me. Atleast you're here now."
