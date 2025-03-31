@@ -7,5 +7,7 @@ flowchart TD
   INTRO2A --> INTRO3[Diane: Good. Let's hurry. The more time we spend here the more time Ahmed has to secure the alliance.]
 
   INTROB & INTRO2D --> GOODBYE[Diane: Chk, quickly then.]
+
+  POINTER[The rest of the dialogue tree for this quest is in King Bennett's section.]
   
 ```
