@@ -137,5 +137,11 @@ flowchart TD
 - **Step 7 (Pre-finale)**
     - Just before Ahmed leads his massive assault on the capital and the Thomasians also rally their foreign Borisyan military to attempt and repel them, Diane asks the player once again to accompany and protect her for a speech in the capital, but this time the capital streets are full of militiamen, state soldiers, Upper City knights, and her personal guardians. She gives a rallying speech, making notes about "I know we are surrounded, but think of what we can achieve once this is all over..." and "this is our home... will you really allow the likes of Thomasia or Ahmed's barbarians to take it from you?". The crowd is roused and inspired, and Diane informs the player that whenever the fight may happen, Yrmania is ready.
     - 1000GP (or the currency decided) and Sceleritas Fel's Hat, a unique item that greatly increases initiative (or whatever turn order system, basically it helps you go first) is rewarded after the speech. Diane hands it to the player, gently stating "this was my first and favourite guardian's hat once. I remember the time when I was a sweet girl, when I entered the Upper City for the first time and he was there to greet me. Now I'm here, about to face my greatest challenge ever, I just wish he could be here to see me. Atleast you're here now."
- 
-      
+```mermaid
+flowchart TD
+  BENNETTAFTERMATH[Diane: Good work securing the alliance with the slums... I appreciate it. Now I hope you're ready, because I've gotten the news that Ahmed is preparing their assault and the elite borisyan troops that came for Thomasia's aid have arrived. My question now is, are you ready for this next step?] --> AFTERMATHA[Player: I'm ready. *START PRE-FINALE AND AHMED ASSAULT*] & AFTERMATHB[Player: I'm not ready yet *Leave Diane*]
+  AFTERMATHA[Diane: Alright, let's go. I doubt Ahmed will wait for us to be ready.]
+  AFTERMATHB --> GOODBYE[Diane: Then come back when you are, but Ahmed won't just sit outside and wait until you're ready.]
+
+  PREFINALE[Diane: Citizens... militia... soldiers... guardians, gather round...] --> PREFINALE2[Diane: Alright... now, the biggest fight of our lives. Whenever they may come, Yrmania is ready for them.] --> PREFINALE3[Diane: One last thing... this was my first and favourite guardian's hat once. I remember the time when I was a sweet girl, when I entered the Upper City for the first time and he was there to greet me. Now I'm here, about to face my greatest challenge ever, I just wish he could be here to see me. Atleast you're here now. *Hands over Sceleritas Fel's Hat*]
+```
